@@ -1,6 +1,6 @@
-/* .navbar-brand {
+.navbar-brand {
   color: green !important;
-} */
+}
 
 * {
   margin: 0;
@@ -31,6 +31,10 @@ main {
 }
 .total-price span {
   font-size: 30px;
+}
+
+.fa-heart.liked {
+  color: red;
 }
 
 .total {
